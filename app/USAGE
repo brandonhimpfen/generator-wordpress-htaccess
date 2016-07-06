@@ -1,0 +1,5 @@
+Description:
+    Yeoman generator for the Ratchet Boilerplate.
+
+Example:
+    yo ratchet-boilerplate

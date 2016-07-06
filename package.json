@@ -1,0 +1,29 @@
+{
+  "name": "generator-wordpress-htaccess",
+  "version": "0.1.0",
+  "description": "Yeoman generator to generate a WordPress-specific .htaccess file.",
+  "keywords": [
+    "yeoman-generator",
+    "wordpress",
+    "htaccess",
+    "linux",
+    "apache"
+  ],
+  "author": {
+    "name": "Brandon Himpfen",
+    "email": "brandon@himpfen.com",
+    "url": "http://www.himpfen.com"
+  },
+  "main": "app/index.js",
+  "files": [
+    "app"
+  ],
+  "repository": "brandonhimpfen/generator-wordpress-htaccess",
+  "dependencies": {
+    "yeoman-generator": "^0.18.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "licenses": "MIT"
+}
