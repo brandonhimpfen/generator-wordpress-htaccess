@@ -1,5 +1,7 @@
 # generator-wordpress-htaccess
-Yoeman Generator to generate a WordPress .htaccess file.
+**Donate:** [PayPal](https://go.himpfen.com/1j)
+
+Yeoman Generator to generate a WordPress .htaccess file.
 
 ## Install
 
