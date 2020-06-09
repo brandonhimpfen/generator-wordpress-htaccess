@@ -1,7 +1,8 @@
 # generator-wordpress-htaccess
-**Donate:** [PayPal](https://go.himpfen.com/1j)
 
 Yeoman Generator to generate a WordPress .htaccess file.
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/brandonhimpfen)
 
 ## Install
 
